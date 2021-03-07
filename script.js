@@ -1,6 +1,6 @@
 class AudioController {
     constructor() {
-        this.bgMusic = new Audio('XMen Theme song No Sound FX.mp3');
+        this.bgMusic = new Audio('img/Audio/XMen Theme song No Sound FX.mp3');
         this.flipSound = new Audio('img/Audio/Audio_flip.wav');
         this.matchSound = new Audio('img/Audio/Audio_match.wav');
         this.victorySound = new Audio('img/Audio/Audio_victory.wav');
